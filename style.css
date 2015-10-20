@@ -1,0 +1,86 @@
+h1 {
+  font-family: "Open Sans Candensed",sans-serif;
+  color:#124152;
+}
+h2 {
+  font-family: "raleway",sans-serif;
+  color:#2B4059;
+  font-size: 50px;
+}
+h3 {
+  font-family: "raleway",sans-serif;
+  font-size: 30px;
+}
+#menu {
+  margin:0;
+  padding:0;
+  text-align: center;
+  border:solid black;
+  background-color: #00152A;
+  font-size: 40px;
+}
+#menu li {
+  display: inline;
+  margin: 0;
+  padding:0;
+  font-family: "raleway";
+}
+a {
+	text-decoration: none;
+}
+li{
+	font-family: "Josefin Slab", serif;
+}
+#profil{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	opacity: 0.8;
+}
+.gras{
+	color: black;
+}
+.experience{
+	background-color: #00152A;
+	margin:0;
+  	padding:0;
+  	text-align: center;
+  	border:solid black;
+  	color:white;
+  	font-size:40px;
+}
+.formation{
+	background-color: #00152A;
+	margin:0;
+  	padding:0;
+  	text-align: center;
+  	border:solid black;
+  	color:white;
+	font-size:40px;
+	}
+.competence{
+	background-color: #00152A;
+	margin:0;
+  	padding:0;
+  	text-align: center;
+  	border:solid black;
+  	color:white;
+  	font-size:40px;
+}
+.divers{
+	background-color: #00152A;
+	margin:0;
+  	padding:0;
+  	text-align: center;
+  	border:solid black;
+  	color:white;
+  	font-size:40px;
+}
+.CV{
+	color:#2B4059;
+	text-decoration: underline;
+}
