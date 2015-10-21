@@ -1,11 +1,7 @@
-h1 {
-  font-family: "Open Sans Candensed",sans-serif;
-  color:#124152;
-}
 h2 {
   font-family: "raleway",sans-serif;
   color:#2B4059;
-  font-size: 50px;
+  font-size: 30px;
 }
 h3 {
   font-family: "raleway",sans-serif;
@@ -41,9 +37,7 @@ a{
 a:hover{
 	opacity: 0.8;
 }
-.gras{
-	color: black;
-}
+
 .experience{
 	background-color: #00152A;
 	margin:0;
@@ -51,8 +45,10 @@ a:hover{
   	text-align: center;
   	border:solid black;
   	color:white;
-  	font-size:40px;
+  	font-size:2em;
+  	font-family: "Open Sans Candensed",sans-serif;
 }
+
 .formation{
 	background-color: #00152A;
 	margin:0;
@@ -60,7 +56,8 @@ a:hover{
   	text-align: center;
   	border:solid black;
   	color:white;
-	font-size:40px;
+	font-size:2em;
+	font-family: "Open Sans Candensed",sans-serif;
 	}
 .competence{
 	background-color: #00152A;
@@ -69,7 +66,8 @@ a:hover{
   	text-align: center;
   	border:solid black;
   	color:white;
-  	font-size:40px;
+  	font-size:2em;
+  	font-family: "Open Sans Candensed",sans-serif;
 }
 .divers{
 	background-color: #00152A;
@@ -78,9 +76,42 @@ a:hover{
   	text-align: center;
   	border:solid black;
   	color:white;
-  	font-size:40px;
+  	font-size:2em;
+  	font-family: "Open Sans Candensed",sans-serif;
 }
 .CV{
 	color:#2B4059;
 	text-decoration: underline;
 }
+.entreprise{
+	font-size: 20px;
+}
+
+.hauteur{
+
+	height:271px;
+}
+.date{
+	font-style: italic;
+	font-family: "Poiret One";
+}
+#competence{
+	font-size: 18px;
+}
+#divers{
+	font-size: 18px;
+}
+.grade{
+	font-size: 18px;
+}
+.imgorange{
+	margin-top:100px;
+}
+.imged{
+	margin-top: 100px;
+	padding: 10px;
+}
+/*responsive*/
+
+
+
